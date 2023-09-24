@@ -1,0 +1,4 @@
+package Scopes
+
+class Scopes {
+}

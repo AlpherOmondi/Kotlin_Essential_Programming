@@ -1,4 +1,2 @@
 package Scopes
 
-class Scopes {
-}

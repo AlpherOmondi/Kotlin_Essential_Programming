@@ -7,7 +7,10 @@ package Scopes
 fun helloworld():Unit{
     print("Hello world")
 }
+
+
 fun main(){
     functionnameWithTitle("Alpha Omondi")
     helloworld()
+
 }

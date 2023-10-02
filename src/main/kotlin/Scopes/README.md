@@ -41,3 +41,14 @@ class Circle( radius: Double){ // Class scope
 
 ```
 The above variable is in the  top level scope.
+
+## Scope functions
+There are 5 scope functions namely :
+# 1. with
+COntext object : this
+Returns : the last value in the lambda.
+2. let
+3. run
+4. apply
+5. also
+For example :
